@@ -1,1 +1,9 @@
 @import "tailwindcss";
+body {
+  color: rgb(var(--foreground-rgb));
+  background-color: rgb(var(--background-rgb));
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  background-color: #5fb5c4;
+}
